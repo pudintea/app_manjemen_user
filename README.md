@@ -7,4 +7,5 @@ Dibuat Menggunakan
 Framework Codeigniter 3.x
 Template : Admin LTE
 
-Untuk informasi lebih lengkap, silahkan cek di https://www.pudintea.web.id
+Untuk databases, username dan password dan informasi lainya termasuk cara instalasi dan cara menggunakan aplikasi ini,
+silahkan cek di https://www.pudintea.web.id
